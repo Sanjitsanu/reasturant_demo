@@ -1,0 +1,6 @@
+{
+  "name": "L'Aura Bistro & Artisan Roastery",
+  "description": "Premium fine dining and artisan café experience with chef-crafted seasonal menus, instant table reservations, online ordering, and AI dining assistant.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
